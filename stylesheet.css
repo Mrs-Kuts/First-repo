@@ -1,0 +1,32 @@
+a {
+   text-decoration: none;
+   color: green;
+
+  }
+
+ h1 {
+     font-family: Monotype Corsiva;
+    }
+p   {
+    text-align: center;
+    width: 2em;
+    height: 50px;
+    }
+nav {
+     display: block;
+     position: relative;
+
+    }
+ ul {
+ 	 text-align: center;
+     list-style: none;
+     margin: 0 auto;
+     padding-left: 0;
+     font-family: Monotype Corsiva;
+     overflow: hidden;
+    }
+ li {
+ 	 display: inline;
+     float: left;
+     width: 25%;
+    }
